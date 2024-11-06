@@ -1,17 +1,11 @@
-## Hi there 👋
-meu nome é Maria Eduarda
-estou estudando no CEP
-<!--
-**edwmari/edwmari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Boas vindas ao meu perfil 💙💙
+Meu nome é Maria Eduarda
 
-Here are some ideas to get you started:
+Estou estudando no CEP
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+maria.lima.ribeiro09@escola.pr.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@alurastartestudante
+![](https://cdn.pixabay.com/animation/2023/01/22/07/18/07-18-28-799_512.gif)
